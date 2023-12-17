@@ -2,6 +2,7 @@
 import './App.css';
 import Delivery from './components/Delivery';
 import Featured from './components/Featured';
+import TipPicks from './components/TipPicks';
 import TopNav from './components/TopNav';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <TopNav/>
       <Featured/>
       <Delivery/>
+     <TipPicks/>
     </div>
   );
 }

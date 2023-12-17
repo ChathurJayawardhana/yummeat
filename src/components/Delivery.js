@@ -21,6 +21,9 @@ export default function  () {
               passages, and more recently with desktop publishing software like
                Aldus PageMaker including versions of Lorem Ipsum.</p>
           </>
+          <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>
+            Get Started
+          </button>
                  
          </div>
        </div>
