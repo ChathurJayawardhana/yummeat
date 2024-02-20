@@ -26,7 +26,7 @@ export default function TipPicks() {
                           />    
                     </div>
                     </SplideSlide>
-                    
+              
                 )
              })
         }
